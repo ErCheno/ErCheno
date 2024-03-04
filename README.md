@@ -7,7 +7,7 @@ Java Developer & Other
 He estado estudiando el lenguaje de Java por 3 años, ya que siempre me ha entusiasmado mucho la creación de aplicaciones, tambíen he estado estudiando otros lenguajes como MySQL, Kotlin, Flutter, C#, etc. Las aplicaciones más habituales que uso son: IntelIJ, Android Studio, Hibernate (JPA), Spring Boot
 
 *   🌍  I'm based in España
-*   🖥️  See my portfolio at [Mi Curriculum]([http://www.canva.com/design/DAFxjZOEXOo/3_z-7c3yOt9i3rbbwdCL9A/view?utm_content=DAFxjZOEXOo&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF-iojBuqQ/ksWUhVvlR-_gm4lNfQo30A/edit?utm_content=DAF-iojBuqQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+*   🖥️  See my portfolio at [[Mi Curriculum]([http://www.canva.com/design/DAFxjZOEXOo/3_z-7c3yOt9i3rbbwdCL9A/view?utm_content=DAFxjZOEXOo&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF-iojBuqQ/ksWUhVvlR-_gm4lNfQo30A/edit?utm_content=DAF-iojBuqQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))](https://www.canva.com/design/DAF-iojBuqQ/ksWUhVvlR-_gm4lNfQo30A/edit)
 *   ✉️  You can contact me at [emiliojesus786@gmail.com](mailto:emiliojesus786@gmail.com)
 *   🧠  I'm learning Flutter, MongoDB, Docker Hub, Unity3D
 *   ⚡  Amo el dibujo digital / artístico, la creación de ilustraciones y personajes, CLIP STUDIO PAINT es la aplicación que uso. Además me gusta usar normalmente Photoshop para la edición de fotos como hobby. También solía editar videos para varias personas para sus proyectos personales### Skills 
