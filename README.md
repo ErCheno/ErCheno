@@ -37,7 +37,7 @@ He estado estudiando el lenguaje de Java por 3 años, ya que siempre me ha entus
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                 </picture>
                 </a>
-                  <a href="https://www.linkedin.com/in/emilio-garcía-a94014223" target="_blank" rel="noreferrer">
+                  <a href="https://www.linkedin.com/in/emilio-jes%C3%BAs-garc%C3%ADa-rojas-a94014223/" target="_blank" rel="noreferrer">
                 <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
